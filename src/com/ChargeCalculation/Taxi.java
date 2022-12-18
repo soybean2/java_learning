@@ -1,6 +1,7 @@
 package com.ChargeCalculation;
 
-public class Taxi implements Charge{
+
+public class Taxi implements Charge {
     private int distance;
 
     public Taxi(int distance) {

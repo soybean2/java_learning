@@ -1,8 +1,8 @@
 package com.ChargeCalculation;
 
-public class Cinema implements Charge{
+public class Bus implements Charge {
     @Override
     public int receive() {
-        return 80;
+        return 2;
     }
 }
